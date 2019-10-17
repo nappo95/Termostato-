@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\bin\Debug\netcoreapp2.2\MQTTbroker.deps.json
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\bin\Debug\netcoreapp2.2\MQTTbroker.runtimeconfig.json
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\bin\Debug\netcoreapp2.2\MQTTbroker.runtimeconfig.dev.json
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\bin\Debug\netcoreapp2.2\MQTTbroker.dll
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\obj\Debug\netcoreapp2.2\MQTTbroker.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\obj\Debug\netcoreapp2.2\MQTTbroker.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\obj\Debug\netcoreapp2.2\MQTTbroker.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\obj\Debug\netcoreapp2.2\MQTTbroker.AssemblyInfo.cs
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\bin\Debug\netcoreapp2.2\MQTTbroker.pdb
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\obj\Debug\netcoreapp2.2\MQTTbroker.dll
+C:\Users\admin\source\repos\MQTTbroker\MQTTbroker\obj\Debug\netcoreapp2.2\MQTTbroker.pdb
